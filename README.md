@@ -9,7 +9,7 @@
 
 ### Projects
 ---
+포트폴리오 주소: https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487
 - 공공데이터를 통한 최적의 공용자전거 정류소 입지 찾기
 - 데이터리안 이커머스 리텐션 분석
 - 텍스트 기반 감정분석을 통한 이미지 변환 서비스
-  https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487
