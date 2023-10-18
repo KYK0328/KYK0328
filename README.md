@@ -15,6 +15,6 @@
 
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
-| 23.07.25~23.08.23 | Emopic: 텍스트 기반 감정분석을 통한 이미지 변환 서비스 | Python, Django |
+| 23.07.25~23.08.23 | Emopic: 텍스트 기반 감정분석을 통한 이미지 변환 서비스 https://github.com/KYK0328/emopic | Python, Django |
 | 23.07.06~23.07.19 | 뷰티 이커머스 리텐션 분석을 통한 구매 유도 마케팅 전략 제안 | Mysql, Pyspark, Excel |
 | 22.07.22~22.08.29 | S_mile: 공공데이터를 이용한 최적의 공용자전거 정류소 입지 찾기 | Python |
