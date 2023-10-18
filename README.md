@@ -4,10 +4,10 @@
 
 ### 👩🏻‍💻 stack
 ---
-- Python
-- SQL(mysql, oracle)
-- Tableau
-- R
+- Python: pandas, selenium, sklearn, matplotlib, seaborn 등의 패키지를 활용한 데이터 수집, 전처리, 시각화, ML 모델 적용 가능
+- SQL(mysql, oracle): Join, Subquery를 활용한 데이터 추출
+- Tableau: 간단한 대시보드 생성
+- R: 통계분석 패키지 사용 및 타인의 코드 이해 가능 
 
 ### 📑 Projects
 ---
