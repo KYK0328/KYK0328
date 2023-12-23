@@ -12,12 +12,12 @@
 
 ### 📑 Projects
 ---
-노션 포트폴리오 주소: https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487
-프로젝트 회고: https://luluofgang.tistory.com/category/projects
+- 노션 포트폴리오 주소: https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487
+- 프로젝트 회고: https://luluofgang.tistory.com/category/projects
 
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
-| 23.10.30~ | [Project NMBB: '낭만부부' 자사몰 활성화를 위한 그로스 마케팅 챌린지](https://luluofgang.tistory.com/category/projects/NMBB) | GA4, Excel, Python|
+| 23.10.30~ ing| [Project NMBB: '낭만부부' 자사몰 활성화를 위한 그로스 마케팅 챌린지](https://luluofgang.tistory.com/category/projects/NMBB) | GA4, Excel, Python|
 | 23.07.25~23.08.23 | [Emopic: 텍스트 기반 감정분석을 통한 이미지 변환 서비스](https://github.com/KYK0328/emopic) | Python, Django |
 | 23.07.06~23.07.19 | [뷰티 이커머스 리텐션 분석을 통한 구매 유도 마케팅 전략 제안](https://github.com/KYK0328/ecommerce) | Mysql, Pyspark, Excel |
 | 22.08.03~22.08.29 | [S_mile: 공공데이터를 이용한 최적의 공용자전거 정류소 입지 찾기](https://github.com/KYK0328/public_bike) | Python |
