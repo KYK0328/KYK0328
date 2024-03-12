@@ -1,4 +1,4 @@
-## 👩🏻‍🎨 안녕하세요 데이터로 성장 지도를 그리고자 하는 강유경입니다.
+## 👩🏻‍🎨 안녕하세요 데이터로 성장 지도를 그리는 강유경입니다.
 숭실대학교에서 정보사회학을 전공하고 정보통계보험수리학을 복수전공하였습니다.
 졸업 후, 2023년 5월 22일부터 10월 31일까지 약 5개월 동안 멀티캠퍼스 데이터분석 & 엔지니어 과정을 수료했습니다. 
 이후, 실무 경험을 쌓고자 친척이 운영하는 이커머스 사업체 '낭만부부'에 자발적으로 준비한 분석 제안서를 바탕으로 브랜드의 성장을 돕는 그로스 마케터 겸 비즈니스 분석가의 커리어를 시작했습니다.
@@ -16,7 +16,7 @@
 ### 🖼️ Projects
 ---
 - 노션 포트폴리오 주소: https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487
-- "프로젝트 낭만" 관련 정리: https://luluofgang.tistory.com/category/projects
+- "프로젝트 낭만" 관련 정리: [https://luluofgang.tistory.com/category/projects](https://luluofgang.tistory.com/category/main%20projects/NMBB)
 
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
