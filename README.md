@@ -8,10 +8,10 @@
 ---
 - Python: pandas, selenium, sklearn, matplotlib, seaborn 등의 패키지를 활용한 데이터 수집, 전처리, 시각화, ML 모델 적용 가능
 - SQL(mysql, oracle): Join, Subquery를 활용한 데이터 추출, 요약, RETENTION 분석 활용
-- Tableau: 간단한 대시보드 생성
-- R: 통계분석 패키지 사용 및 타인의 코드 이해 가능
 - GA4: GA 연동 및 GTM 이벤트 설치 (트래픽, 캠페인 성과, 고객특성, 리텐션 분석 시 활용 가능)
 - BigQuery: GA4와 연동 후 쿼리 작성 후 심화 분석 가능, Google Search Console 연동 후 키워드 확인
+- Tableau: 간단한 대시보드 생성
+- R: 통계분석 패키지 사용 및 타인의 코드 이해 가능
 
 ### 🖼️ Projects
 ---
