@@ -20,10 +20,10 @@
 
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
-| 24.01.29~24.02.19| [Project NMBB: 네이버스토어 분석을 통한 마케팅 제안](https://github.com/KYK0328/nmbb) | Python |
-| 23.10.30~24.03.03| [Project NMBB: 자사몰 활성화를 위한 그로스 프로젝트](https://luluofgang.tistory.com/category/main%20projects/NMBB) | GA4, Bigquery, Excel|
-| 23.07.25~23.08.23 | [Emopic: 텍스트 기반 감정분석을 통한 이미지 변환 서비스](https://github.com/KYK0328/emopic) | Python, Django |
-| 23.07.06~23.07.19 | [뷰티 이커머스 리텐션 분석을 통한 구매 유도 마케팅 전략 제안](https://github.com/KYK0328/ecommerce) | Mysql, Pyspark, Excel |
-| 22.08.03~22.08.29 | [S_mile: 공공데이터를 이용한 최적의 공용자전거 정류소 입지 찾기](https://github.com/KYK0328/public_bike) | Python |
+| 24.01.29~24.02.19| [🍡Project NMBB: 네이버스토어 분석을 통한 마케팅 제안](https://github.com/KYK0328/nmbb) | Python, Excel |
+| 23.10.30~24.03.03| [🍡Project NMBB: 자사몰 활성화를 위한 그로스 프로젝트](https://luluofgang.tistory.com/category/main%20projects/NMBB) | GA4, Bigquery, Excel |
+| 23.07.25~23.08.23 | [🤪Emopic: 텍스트 기반 감정분석을 통한 이미지 변환 서비스](https://github.com/KYK0328/emopic) | Python, Django |
+| 23.07.06~23.07.19 | [🛍️뷰티 이커머스 리텐션 분석을 통한 구매 유도 마케팅 전략 제안](https://github.com/KYK0328/ecommerce) | Mysql, Pyspark, Excel |
+| 22.08.03~22.08.29 | [🚲S_mile: 공공데이터를 이용한 최적의 공용자전거 정류소 입지 찾기](https://github.com/KYK0328/public_bike) | Python |
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKYK0328&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
