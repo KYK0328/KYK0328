@@ -15,8 +15,8 @@
 
 ### 🖼️ Projects
 ---
-- 노션 포트폴리오 주소: https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487
-- "프로젝트 낭만" 관련 정리: [https://luluofgang.tistory.com/category/projects](https://luluofgang.tistory.com/category/main%20projects/NMBB)
+- [노션 포트폴리오](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487)
+- ["프로젝트 낭만" 관련 블로깅](https://luluofgang.tistory.com/category/main%20projects/NMBB)
 
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
