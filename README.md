@@ -21,7 +21,7 @@
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
 | 24.01.29~24.02.19| 🍡 Project NMBB: [네이버스토어 분석을 통한 마케팅 제안](https://github.com/KYK0328/nmbb) | Python, Excel |
-| 23.10.30~24.03.03| 🍡 Project NMBB: [자사몰 활성화를 위한 그로스 프로젝트](https://luluofgang.tistory.com/category/main%20projects/NMBB) | GA4, Bigquery, Excel |
+| 23.10.30~24.03.03| 🍡 Project NMBB: [자사몰 활성화를 위한 그로스 프로젝트](https://www.notion.so/NMBB-1-7b0681d6bb5c4a7aa9de6619d3225124) | GA4, Bigquery, Excel |
 | 23.07.25~23.08.23 | 🤪 Emopic: [텍스트 기반 감정분석을 통한 이미지 변환 서비스](https://github.com/KYK0328/emopic) | Python, Django |
 | 23.07.06~23.07.19 | 🛍️ 뷰티 이커머스 리텐션 분석을 통한 [구매 유도 마케팅 전략 제안](https://github.com/KYK0328/ecommerce) | Mysql, Pyspark, Excel |
 | 22.08.03~22.08.29 | 🚲 S_mile: [공공데이터를 이용한 최적의 공용자전거 정류소 입지 찾기](https://github.com/KYK0328/public_bike) | Python |
