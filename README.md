@@ -13,6 +13,9 @@
 - Tableau: 간단한 대시보드 생성
 - R: 통계분석 패키지 사용 및 타인의 코드 이해 가능
 
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 ### 🖼️ Projects
 ---
 - 노션 [포트폴리오](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487)
