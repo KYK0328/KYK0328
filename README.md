@@ -19,7 +19,7 @@
 | 23.07.06~23.07.19 | 🛍️ 뷰티 이커머스 로그데이터 분석을 통한 [구매 유도 마케팅 전략 제안](https://github.com/KYK0328/ecommerce) | Mysql, Pyspark, Excel |
 | 22.08.03~22.08.29 | 🚲 S_mile: [공공데이터를 이용한 최적의 공용자전거 정류소 입지 찾기](https://github.com/KYK0328/public_bike) | Python |
 
-### 🎨 Stack
+### 🎨 Available
 ---
 - Python: pandas, selenium, scikitlearn, matplotlib, seaborn 등의 패키지를 활용한 데이터 수집, 전처리, 시각화, ML 모델 적용 가능
 - SQL(mysql, oracle): Join, Subquery를 활용한 데이터 추출, 요약, RETENTION 분석 활용
