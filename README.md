@@ -7,8 +7,8 @@
 
 ### 🖼️ Projects
 ---
-- 노션 [포트폴리오](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487)
-- Project NMBB 관련 [블로깅](https://luluofgang.tistory.com/category/main%20projects/NMBB)
+📍 노션 [포트폴리오](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487)
+🌐 Project NMBB 관련 [블로깅](https://luluofgang.tistory.com/category/main%20projects/NMBB)
 
 | Date | Project | Langauage & Tools |
 | --- | --- | --- |
